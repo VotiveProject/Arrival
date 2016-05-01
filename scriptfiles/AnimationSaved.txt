@@ -1,0 +1,7 @@
+
+ApplyAnimation(playerid, "BD_FIRE", "WASH_UP", 4.1, false, false, false, false, 255, true); // ybiraem
+ApplyAnimation(playerid, "COP_AMBIENT", "COPLOOK_OUT", 4.1, false, false, false, false, 0, false); // ybiraem
+ApplyAnimation(playerid, "GOGGLES", "GOGGLES_PUT_ON", 4.1, false, false, false, false, 0, false); // ybiraem orijie na spiny
+ApplyAnimation(playerid, "GRENADE", "WEAPON_THROW", 4.1, false, false, false, false, 0, false); // brosit daleko
+ApplyAnimation(playerid, "GRENADE", "WEAPON_THROWU", 4.1, false, false, false, false, 0, false); // brosit blizko
+ApplyAnimation(playerid, "INT_SHOP", "SHOP_IN", 4.1, false, false, false, false, 0, false); // polojit
